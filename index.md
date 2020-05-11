@@ -1,11 +1,17 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'Hi, welcome to the home center'
+description: build with raspberry Pi!
 image: null
-author: null
+author: weilei
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Be creative with your imagination
+
+
+
+<a href="http://localhost:4000//" class="button">Local page</a>
+<a style="margin-left: 4em" href="http://raspberrypi.attlocal.net/" class="button">Deploy page</a>
+<a style="margin-left: 4em" href="#one" class="button next">Get started</a>

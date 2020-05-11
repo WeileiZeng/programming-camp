@@ -1,36 +1,73 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Home Media Center
+subtitle: with raspberry Pi
 email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
+description: "A home center for media and storage. <br> username: pi <br> password: raspberry<br> For now everything can only be accessed within the home network (which ever connected to the router). Use the username and password if prompt"
+baseurl:
+#"/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+url: http://raspberrypi.attlocal.net
+#http://192.168.1.222
+# the base hostname & protocol for your site
+author: Weilei
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+city: Riverside
+state: CA
+zip_code: 99999
 country: United States of America
-phone: (716) 555-5555
+phone: (951) 999-9999
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 16
+# homepage links
+links:
+- title: JelleyFin
+  link: http://raspberrypi.attlocal.net:8096
+  description: Music and Video
+- title: Plex
+  link: http://raspberrypi.attlocal.net:32400
+  description: Music and Video
+- title: NextCloud Storage
+  link: http://raspberrypi.attlocal.net:9000
+  description: synchronized storage every where
+- title: samba storage
+  description: cloud storage. data for media centers. Visit it on your net work  
+- title: BT monitor
+  link: http://raspberrypi.attlocal.net:8888
+  description: event monitor for the server
+- title: log
+  link: http://raspberrypi.attlocal.net/log/index.html
+  description: system log
+- title: Download
+  link: http://raspberrypi.attlocal.net/Download/index.html
+  description: convient download through website
+- title: Transmission
+  link: http://raspberrypi.attlocal.net:9091
+  description: Bit torrent web client 
+
 
 # social settings
 500px_url:
 facebook_url:
 github_url:
 gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+googleplus_url:
+#https://plus.google.com/u/0/+AndrewBanchich
+instagram_url:
+#https://instagram.com
+linkedin_url:
+#https://www.linkedin.com/in/andrew-banchich-a4ba1195
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url:
+#https://twitter.com/andrewbanchich
 
 # build settings
 markdown: kramdown
 
 sass:
   style: compressed
+
+#jekyll exclude
+exclude:
+- Makefile

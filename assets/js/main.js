@@ -176,9 +176,10 @@
 								event.stopPropagation();
 								event.preventDefault();
 
-							// Start transitioning.
-								$this.addClass('is-transitioning');
-								$wrapper.addClass('is-transitioning');
+						    // Start transitioning.
+						    //commented by weilei. prevent page from getting stuck
+						    //$this.addClass('is-transitioning');
+						    //		$wrapper.addClass('is-transitioning');
 
 							// Redirect.
 								window.setTimeout(function() {
