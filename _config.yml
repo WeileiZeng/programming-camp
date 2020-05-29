@@ -43,8 +43,11 @@ links:
   description: convient download through website
 - title: Transmission
   link: http://raspberrypi.attlocal.net:9091
-  description: Bit torrent web client 
-
+  description: Bit torrent web client. Download bt file to sambashare/media/torrent/, and the download should start automatically 
+- title: portainer
+  link: http://raspberrypi.attlocal.net:9001
+  description: The ultimate docker manager. Port 9002 is only exposed locally
+  
 
 # social settings
 500px_url:
