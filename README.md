@@ -33,7 +33,11 @@ Students can work in a group of 2 or 3 as well. In the beginning, one would iden
 ### Level 2  
 Classes in level 2 require basic knowledge of programming, _e.g._ understanding and knowing how to write an `if` statement and a `for loop`
 
-- Write your own Games   
+- [Write your own Games](http://www.grantjenks.com/docs/freegames/)
+  - Paint
+  - Connect
+  - Flappy
+  - Pong
   - [Conway's game of life](https://bitstorm.org/gameoflife/)
   - [Sudoku](https://www.sudokuwiki.org/sudoku.htm) [in python](https://norvig.com/sudoku.html)
   - [Snake](https://www.edureka.co/blog/snake-game-with-pygame/)
@@ -45,6 +49,13 @@ Classes in level 2 require basic knowledge of programming, _e.g._ understanding 
 - Photo editing: a Python version of https://kknews.cc/digital/yy2bk8k.html
   
 - Voice robot like siri
+
+### Level 3
+Classes in level 3 require more knowledge and effort on programming.
+- [Write your own games](http://www.grantjenks.com/docs/freegames/) (advanced)
+  - Pacman
+  - Cannon
+  - [tetris](https://chvin.github.io/react-tetris/)
 
 
 example:
