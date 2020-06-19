@@ -15,7 +15,7 @@ Students can work in a group of 2 or 3 as well. In the beginning, one would iden
   - [Build a website in an application, no programming is needed](https://mobirise.com/)
 
 
-- Data processing/ Natrual languale processing
+- Data processing/ natrual language processing
   - Use python to download millions of data, and extract useful information. It all starts from a great and simple question: what do you want to know from the Internet?
   - __twitter__: From what people talk about on twitter, one can analyze a lot of interesting questions, for example
     - [What twitter tells about COIVD-19](https://github.com/thepanacealab/covid19_twitter)
@@ -32,16 +32,16 @@ Students can work in a group of 2 or 3 as well. In the beginning, one would iden
   
 ### Level 2  
 - Write your own Games 
-  - require basic knowledge of Python: understand and know how to write a `if` statement and a `for loop`
+  - require basic knowledge of Python: understand and know how to write an `if` statement and a `for loop`
   - [Conway's game of life](https://bitstorm.org/gameoflife/)
   - [Sudoku](https://www.sudokuwiki.org/sudoku.htm) [in python](https://norvig.com/sudoku.html)
   - [Snake](https://www.edureka.co/blog/snake-game-with-pygame/)
   
 - drone array design
-  - require basic knowledge of Python: understand and know how to write a `if` statement and a `for loop`
+  - require basic knowledge of Python: understand and know how to write an `if` statement and a `for loop`
   - design patterns for a drone array performance
 
-- Photo editing: a python version of https://kknews.cc/digital/yy2bk8k.html
+- Photo editing: a Python version of https://kknews.cc/digital/yy2bk8k.html
   
 - Voice robot like siri
 
