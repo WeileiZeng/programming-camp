@@ -40,6 +40,7 @@ Classes in level 2 require basic knowledge of programming, _e.g._ understanding 
   
 - drone array design
   - design patterns for a drone array performance
+  - With our collabrate team, you can contribute to a real performance!
 
 - Photo editing: a Python version of https://kknews.cc/digital/yy2bk8k.html
   
