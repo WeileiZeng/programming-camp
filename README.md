@@ -31,14 +31,14 @@ Students can work in a group of 2 or 3 as well. In the beginning, one would iden
   - Run your program on a spaceship
   
 ### Level 2  
-- Write your own Games 
-  - require basic knowledge of Python: understand and know how to write an `if` statement and a `for loop`
+Classes in level 2 require basic knowledge of programming, _e.g._ understanding and knowing how to write an `if` statement and a `for loop`
+
+- Write your own Games   
   - [Conway's game of life](https://bitstorm.org/gameoflife/)
   - [Sudoku](https://www.sudokuwiki.org/sudoku.htm) [in python](https://norvig.com/sudoku.html)
   - [Snake](https://www.edureka.co/blog/snake-game-with-pygame/)
   
 - drone array design
-  - require basic knowledge of Python: understand and know how to write an `if` statement and a `for loop`
   - design patterns for a drone array performance
 
 - Photo editing: a Python version of https://kknews.cc/digital/yy2bk8k.html
