@@ -57,6 +57,10 @@ Classes in level 3 require more knowledge and effort on programming.
   - Cannon
   - [tetris](https://chvin.github.io/react-tetris/)
 
+- [Raspberry Pi](https://www.raspberrypi.org/)
+  - A modern computer in a tiny board.
+  - This will help you understand the detail of a computer and explore a lot of product you can build from it.
+  
 
 example:
 - https://codingmindsacademy.com/stuportfo003.html
