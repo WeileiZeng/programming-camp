@@ -42,6 +42,9 @@ Classes in level 2 require basic knowledge of programming, _e.g._ understanding 
   - [Sudoku](https://www.sudokuwiki.org/sudoku.htm) [in python](https://norvig.com/sudoku.html)
   - [Snake](https://www.edureka.co/blog/snake-game-with-pygame/)
   
+- Data processing (advanced)
+  - Other than given data, you will learn more skills on getting data from the Internet and more on information processing.
+
 - drone array design
   - design patterns for a drone array performance
   - With our collabrate team, you can contribute to a real performance!
