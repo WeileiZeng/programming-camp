@@ -1,17 +1,20 @@
-### syllabus for data science
+## Syllabus for Data Science
 
-10 sessions, 2 hour each session
+- Introduction
+  - In this workshop, you will learn some basics of python and use it to extract and analyze some data. Overall, it gives you an experience of converting random online data to useful information for particular questions.
+
+- Duration
+  - 10 sessions in 5 weeks, 2 hour each session
 
 - Class website
-https://github.com/WeileiZeng/programming-camp/tree/master/data-science
-https://www.learnpython.org/en/Welcome
+  - https://github.com/WeileiZeng/programming-camp/tree/master/data-science 
+  - This website will be updated each week
+- "Textbook" 
+  - https://www.learnpython.org/en/Welcome
 
-- What you need to do before first session?
-Try to install this software to save some time in the class
-https://www.anaconda.com/products/individual
 
-Read about Python if interested.
-https://www.learnpython.org/en/Welcome
+- Something to try before before first session?
+  - Try to download and install this software to save some time in the class. https://www.anaconda.com/products/individual
 
 
 ## Content
