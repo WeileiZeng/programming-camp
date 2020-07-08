@@ -59,3 +59,8 @@ sample topics and data source
 - [COVID-19 cases](http://open-source-covid-19.weileizeng.com)
 - [gas usage](https://www.eia.gov/dnav/ng/ng_cons_sum_dcu_nus_m.htm)
 - [CO2 emmission](https://databank.worldbank.org/reports.aspx?source=2&type=metadata&series=EN.ATM.CO2E.PC)
+
+
+https://github.com/MaxBittker/nyt-first-said
+
+https://github.com/ecprice/newsdiffs
