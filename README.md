@@ -1,6 +1,6 @@
-# Programming projects for high school students
+# Programming projects
 
-This is a list of programming projects on various topics, designed for a high school student to finish in an 8-session class.
+This is a list of programming projects on various topics, designed for a high school student to finish in an 10-session class.
 
 Students can work in a group of 2 or 3 as well. In the beginning, one would identify a topic to work on, and then discuss the detail of implementation in program. The topics include but are not limited to the following.
 
