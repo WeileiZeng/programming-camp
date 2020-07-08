@@ -2,6 +2,20 @@
 
 10 sessions, 2 hour each session
 
+- Class website
+https://github.com/WeileiZeng/programming-camp/tree/master/data-science
+https://www.learnpython.org/en/Welcome
+
+- What you need to do before first session?
+Try to install this software to save some time in the class
+https://www.anaconda.com/products/individual
+
+Read about Python if interested.
+https://www.learnpython.org/en/Welcome
+
+
+## Content
+
 1. python overview
   - GUI
   - VS code
