@@ -19,7 +19,7 @@
 
 ## Content
 
-1. python overview
+1. [python overview](slides/s1-overview.ipynb)
   - GUI (graphics user interface)
   - Anaconda and Jupyter Notebook
   - hello world
