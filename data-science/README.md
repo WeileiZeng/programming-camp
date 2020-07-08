@@ -20,8 +20,8 @@
 ## Content
 
 1. python overview
-  - GUI
-  - VS code
+  - GUI (graphics user interface)
+  - Anaconda and Jupyter Notebook
   - hello world
   - data types, operators
   - [reading and practice](https://www.learnpython.org/en/Welcome)
