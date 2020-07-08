@@ -5,13 +5,13 @@
 
 - Duration
   - 10 sessions in 5 weeks, 2 hour each session
-
+- Language:
+  - English
 - Class website
   - https://github.com/WeileiZeng/programming-camp/tree/master/data-science 
   - This website will be updated each week
 - "Textbook" 
   - https://www.learnpython.org/en/Welcome
-
 
 - Something to try before before first session?
   - Try to download and install this software to save some time in the class. https://www.anaconda.com/products/individual
