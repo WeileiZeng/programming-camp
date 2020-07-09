@@ -1,4 +1,4 @@
-How to choose a topic?
+## How to choose a topic?
 
 There are just a lot of interesting questions to work on. But how should you choose? There are several hints.
 
@@ -11,32 +11,44 @@ There are just a lot of interesting questions to work on. But how should you cho
     question.
 - Think about source of data
   - what kind of data can give related information, where to get it?
-  - texts, articles, numbers, tables, ...
+  - what kind of data we can process? texts, articles, numbers, tables, ...
+- Big picture?
+  - What problem will it solve? Practicaly is it helpful for others?
 
 When working on data science projects, there are always surprises and difficulties. We would only find out when actually doing the work. Eventually, for a given topic,  we would come up with a propoal of converting data sources into meaningful information.
 
-Overall, don't worry if those are unclear during brain storming. It is part of the project to make the proposal clear.
+Overall, don't worry if those are unclear during brain storming. It is part of the process to make the proposal clear.
+
+## Project proposal format
+- title:
+- data source:
+- logic/method:
+- possible outcomes and implications:
+  - outcome 1, implication 1
+  - outcome 2, implication 2
+  - ...
+- future work:
+
+## sample project
+- https://zhuanlan.zhihu.com/p/31237526
+- https://zhuanlan.zhihu.com/p/31139201
+- https://github.com/alsnhll/SEIR_COVID19
+- https://github.com/HopkinsIDD/ncov_incubation
 
 
-
-sample topics and data source
+### unclassified resource
 - [COVID-19 cases](http://open-source-covid-19.weileizeng.com)
 - [gas usage](https://www.eia.gov/dnav/ng/ng_cons_sum_dcu_nus_m.htm)
 - [CO2 emmission](https://databank.worldbank.org/reports.aspx?source=2&type=metadata&series=EN.ATM.CO2E.PC)
 
+- https://github.com/MaxBittker/nyt-first-said
+- https://github.com/ecprice/newsdiffs
 
-https://github.com/MaxBittker/nyt-first-said
-
-https://github.com/ecprice/newsdiffs
-
-
-
-
+### unclassfied topics
 
 - crime and COVID-19
 
 - online classes and quality
-
 
 - retail and COVID-19
 
