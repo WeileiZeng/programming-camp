@@ -17,7 +17,7 @@
   - Try to download and install this software to save some time in the class. https://www.anaconda.com/products/individual
 
 
-## Content
+## Contents
 
 1. [python overview](slides/s1-overview.ipynb)
   - GUI (graphics user interface)
@@ -26,7 +26,7 @@
   - data types, operators
   - [reading and practice](https://www.learnpython.org/en/Welcome)
   
-2. python basics
+2. [python basics](slides/s2-python-basics.ipynb)
   - data types
   - list
   - if statement
@@ -81,3 +81,8 @@ sample topics and data source
 https://github.com/MaxBittker/nyt-first-said
 
 https://github.com/ecprice/newsdiffs
+
+
+## More learning material for data science
+
+- http://www.data-analysis-in-python.org/t_text_analysis.html
