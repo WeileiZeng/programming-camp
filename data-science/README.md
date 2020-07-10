@@ -1,5 +1,7 @@
 ## Syllabus for Data Science
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WeileiZeng/programming-camp/master)
+
 - Introduction
   - In this workshop, you will learn some basics of python and use it to extract and analyze some data. Overall, it gives you an experience of converting random online data to useful information for particular questions.
 
