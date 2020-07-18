@@ -90,3 +90,5 @@ https://github.com/ecprice/newsdiffs
 ## More learning material for data science
 
 - http://www.data-analysis-in-python.org/t_text_analysis.html
+
+- https://www.datacamp.com/courses/tech:python

@@ -45,6 +45,8 @@ Overall, don't worry if those are unclear during brain storming. It is part of t
 - https://github.com/MaxBittker/nyt-first-said
 - https://github.com/ecprice/newsdiffs
 
+- https://www.datacamp.com/courses/tech:python
+
 ### unclassfied topics
 
 - crime and COVID-19
