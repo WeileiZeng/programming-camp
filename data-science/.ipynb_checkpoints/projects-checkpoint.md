@@ -60,3 +60,17 @@ Overall, don't worry if those are unclear during brain storming. It is part of t
   - report https://www.visualcapitalist.com/covid-19-downturn-beach-stocks/
   
 data source: tweets
+
+
+## student notes
+
+- Leo
+  - how COVID affect internet companies
+  - data: yahoo finance
+- Jay
+  - How COVID affect the stocks
+  - data: stocks, yahoo finance
+- James
+  - online education or crimes
+  - sources: https://openjustice.doj.ca.gov/exploration/crime-statistics/arrests
+  
