@@ -76,7 +76,15 @@
   
   
 
-sample topics and data source
+### Sample finale projects
+
+- Leo https://github.com/WeileiZeng/programming-camp/blob/master/data-science/homework/leo/project%20(1).ipynb
+
+- Jay https://github.com/WeileiZeng/programming-camp/blob/master/data-science/homework/jay/Project%20(2)%20(1).ipynb
+
+- James https://github.com/WeileiZeng/programming-camp/blob/master/data-science/homework/james/Project.ipynb
+
+### sample topics and data source
 - [COVID-19 cases](http://open-source-covid-19.weileizeng.com)
 - [gas usage](https://www.eia.gov/dnav/ng/ng_cons_sum_dcu_nus_m.htm)
 - [CO2 emmission](https://databank.worldbank.org/reports.aspx?source=2&type=metadata&series=EN.ATM.CO2E.PC)
@@ -90,3 +98,5 @@ https://github.com/ecprice/newsdiffs
 ## More learning material for data science
 
 - http://www.data-analysis-in-python.org/t_text_analysis.html
+
+- https://www.datacamp.com/courses/tech:python
