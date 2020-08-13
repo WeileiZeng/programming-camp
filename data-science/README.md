@@ -6,9 +6,9 @@
   - In this workshop, you will learn some basics of python and use it to extract and analyze some data. Overall, it gives you an experience of converting random online data to useful information for particular questions.
 
 - Duration
-  - 10 sessions in 5 weeks, 2 hour each session
+  - 10 sessions in 5 weeks, 1.5-2 hours each session
 - Language:
-  - English
+  - English/Chinese
 - Class website
   - https://github.com/WeileiZeng/programming-camp/tree/master/data-science 
   - This website will be updated each week
